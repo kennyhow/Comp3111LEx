@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Add 2 print lines as report heading">
+    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Add another print line.">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/mainApp1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -48,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694496690838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add another print line.">
+      <option name="closed" value="true" />
+      <created>1694503819463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694503819463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
     <MESSAGE value="Add 2 print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
+    <MESSAGE value="Add another print line." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add another print line." />
   </component>
 </project>
