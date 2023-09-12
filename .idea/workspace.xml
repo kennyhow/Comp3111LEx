@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Add another print line.">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Copy readme.md to /Lab1 directory.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +52,15 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/kenne/IdeaProjects/Comp3111LEx/src/main/java/Lab1",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kenne\IdeaProjects\Comp3111LEx\src\main\java\Lab1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694503819463</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add readme.md.">
+      <option name="closed" value="true" />
+      <created>1694510991354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694510991354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Copy readme.md to /Lab1 directory.">
+      <option name="closed" value="true" />
+      <created>1694511267563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694511267563</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +128,8 @@
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
     <MESSAGE value="Add 2 print lines as report heading" />
     <MESSAGE value="Add another print line." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add another print line." />
+    <MESSAGE value="Add readme.md." />
+    <MESSAGE value="Copy readme.md to /Lab1 directory." />
+    <option name="LAST_COMMIT_MESSAGE" value="Copy readme.md to /Lab1 directory." />
   </component>
 </project>
