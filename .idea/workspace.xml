@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Clean up files.">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3beb2cd8-e144-4a96-8664-97dc145bb52f" name="Changes" comment="Remove .gitignore from Github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694511384769</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Remove .gitignore from Github">
+      <option name="closed" value="true" />
+      <created>1694516138878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694516138878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +155,7 @@
     <MESSAGE value="Add readme.md." />
     <MESSAGE value="Copy readme.md to /Lab1 directory." />
     <MESSAGE value="Clean up files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean up files." />
+    <MESSAGE value="Remove .gitignore from Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove .gitignore from Github" />
   </component>
 </project>
